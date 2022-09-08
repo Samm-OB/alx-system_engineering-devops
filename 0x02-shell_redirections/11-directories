@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -no -name '.' | ls -l
+find . -type d -no -name . | wc -l 
